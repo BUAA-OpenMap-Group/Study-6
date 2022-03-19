@@ -1,1 +1,1 @@
-os.system('python function_19241091.py')
+print('My student_id: 19241091')
